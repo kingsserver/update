@@ -22,16 +22,3 @@ unrar.dll d2919ffb 268504
 vorbisfile.dll b3544474 999424
 wzAudio.dll a0747522 212992
 xController.ini d0b389f4 22
-Scripts/1024x768.reg 86caeaec 230
-Scripts/1280x1024.reg 9fd1dbad 230
-Scripts/1366x768.reg d0904d6a 230
-Scripts/1440x900.reg c98b7c2b 230
-Scripts/1600x900.reg e2a62fe8 230
-Scripts/1680x1050.reg fbbd1ea9 230
-Scripts/1920x1080.reg 7c250266 230
-Scripts/800x600.reg ade7b92f 230
-Scripts/LangPortugues.reg 5a94351c 108
-Scripts/Sound&MusicOFF.reg 2dd0815a 348
-Scripts/Sound&MusicON.reg a965e3fe 348
-Scripts/_fullscreen_mode.reg 2ab435aa 234
-Scripts/_window_mode.reg e1e8e60f 234
