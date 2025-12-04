@@ -1,7 +1,12 @@
-main.premium a7484afb 2775700
+Main.dll cbd60f32 7758336
+main.premium 47c6f8d2 2775700
 matrix.plugins 2f78861b 1987736
+Plugin.dll a746ccc8 96256
+ugk.dll b8ca1872 2725376
 Data/Custom/Script/PZDEV/InvasionLore/System.lua d0925193 23098
 Data/Local/Por/ItemTooltipText_por.bmd ed7833cf 133124
 Data/Local/Por/ItemTooltip_por.bmd 0f35e40d 1015812
 Data/Local/Por/Item_por.bmd 055726e6 688132
 Data/Local/Por/Text_por.bmd 37222bc5 127644
+GameGuard/GameGuard.doc a8e66576 63488
+GameGuard/License.bmd ef6103ea 20220
