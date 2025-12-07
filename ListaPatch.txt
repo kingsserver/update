@@ -1,6 +1,7 @@
 hso.dll 5a675d6c 1943040
 main.premium ffe6d421 2775700
 matrix.plugins 8e66882e 1987736
+Plugin.dll a746ccc8 96256
 ugk-system.dll b8ca1872 2725376
 Data/Custom/Script/PZDEV/InvasionLore/System.lua 71a0f98c 23140
 Data/Local/Por/ItemTooltipText_por.bmd ed7833cf 133124
