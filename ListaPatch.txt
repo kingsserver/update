@@ -1,3 +1,5 @@
-Camera.dll 4d31c115 207360
-CEffect.dll 428c96bc 155136
-main.premium ba9c7b4a 2775700
+main.premium ed3f249b 2775700
+Plugin.dll a746ccc8 96256
+ugk-system.dll b8ca1872 2725376
+GameGuard/GameGuard.doc a8e66576 63488
+GameGuard/License.bmd 044b9654 20220
