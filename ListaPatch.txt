@@ -1,7 +1,10 @@
-main.premium 764b6f89 2775700
+main.premium db7c475d 2775700
 Plugin.dll a746ccc8 96256
-Settings.ini ec60bb7c 726
 ugk-system.dll b8ca1872 2725376
-Data/Local/Mix.bmd 13fd49d4 86648
+Data/Local/Mix.bmd e44fc9f4 49912
+Data/Local/Por/ItemLevelTooltip_por.bmd c19ddbea 13060
+Data/Local/Por/ItemTooltipText_por.bmd ed7833cf 133124
+Data/Local/Por/ItemTooltip_por.bmd 516a4821 1015812
+Data/Local/Por/Item_por.bmd 3d2a9fb3 688132
 GameGuard/GameGuard.doc a8e66576 63488
 GameGuard/License.bmd 044b9654 20220
