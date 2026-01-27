@@ -1,4 +1,4 @@
-main.premium 2b5b70bd 2775700
+main.premium 1c383588 2775700
 matrix.plugins 691ce412 4461416
 Data/Custom/Script/PZDEV/InvasionLore/Config.lua 3d3dbe86 11202
 Data/Custom/Script/PZDEV/InvasionLore/System.lua d9c6be88 23594
