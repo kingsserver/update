@@ -1,5 +1,5 @@
 GamesWteam.dll 15feb40c 368640
-main.premium 547e0db1 2775700
+main.premium 39a1fe4f 2775700
 Data/Custom/Monster/Master01.bmd 5a00063c 272335
 Data/Custom/Monster/USK_Master01_01.ozt 88d65829 1048598
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
