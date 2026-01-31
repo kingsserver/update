@@ -1,4 +1,10 @@
 GamesWteam.dll 15feb40c 368640
-main.premium 3b31ef1f 2775700
+main.premium 20eef610 2775700
+Data/Custom/Monster/Master01.bmd 5a00063c 272335
+Data/Custom/Monster/USK_Master01_01.ozt 88d65829 1048598
+Data/Custom/Script/ScriptMain.lua 345f5c37 503
+Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
+Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
+Data/Custom/Script/System/ProtocolCore.lua 0a3878d0 791
 Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/GamesWteam/MuOnline.ico 3da53376 24039
