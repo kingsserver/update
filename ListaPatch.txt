@@ -10,7 +10,10 @@ Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/GamesWteam/MuOnline.ico 3da53376 24039
 Data/Local/Eng/ItemTooltip_eng.bmd ba86f8e7 1015812
 Data/Local/Eng/Item_eng.bmd 54e03b8c 688132
+Data/Local/Eng/Skill_eng.bmd eddfb2f6 57204
 Data/Local/Por/ItemTooltip_por.bmd ba86f8e7 1015812
 Data/Local/Por/Item_por.bmd 54e03b8c 688132
+Data/Local/Por/Skill_por.bmd eddfb2f6 57204
 Data/Local/Spn/ItemTooltip_spn.bmd ba86f8e7 1015812
 Data/Local/Spn/Item_spn.bmd 54e03b8c 688132
+Data/Local/Spn/Skill_spn.bmd eddfb2f6 57204
