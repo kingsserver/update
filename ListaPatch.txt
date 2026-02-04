@@ -5,7 +5,7 @@ Data/Custom/Monster/USK_Master01_01.ozt 88d65829 1048598
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
-Data/Custom/Script/PZDEV/InvasionLore/Config.lua 8cffa8b4 11192
+Data/Custom/Script/PZDEV/InvasionLore/Config.lua 29aef09e 11200
 Data/Custom/Script/System/ProtocolCore.lua 0a3878d0 791
 Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/GamesWteam/MuOnline.ico 3da53376 24039
