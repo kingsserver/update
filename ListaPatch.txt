@@ -4,6 +4,16 @@ Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
 Data/Custom/Script/PZDEV/InvasionLore/Config.lua 29aef09e 11200
 Data/Custom/Script/PZDEV/InvasionLore/System.lua d9c6be88 23594
+Data/Custom/Script/Scripts/WindowTitle/Config.lua 491d6b41 166
+Data/Custom/Script/Scripts/WindowTitle/WindowTitle.lua 94b3e394 1822
+Data/Custom/Script/System/1ProtocolCore.lua c390b5f9 1030
+Data/Custom/Script/System/InterfaceCore.lua 00e453e0 2611
+Data/Custom/Script/System/LoadImages.lua 0768b0bd 1275
+Data/Custom/Script/System/ProtocolCore.lua 0a3878d0 791
+Data/Custom/Script/System/ScriptCore.lua 333a6c66 3379
+Data/Custom/Script/Util/Defines.lua cd0dab66 1718
+Data/Custom/Script/Util/Json.lua 4b73b4bc 9640
+Data/Custom/Script/Util/KeysValue.lua 8f9a85b3 3250
 Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/Item/Mace48.bmd 6cc815fc 209050
 Data/Item/ScptBlckRedhRHMakers.ozj c84b7ce3 89193
