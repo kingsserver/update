@@ -1,4 +1,5 @@
 main.premium 92df6d6d 2775700
+Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/Item/Mace48.bmd 6cc815fc 209050
 Data/Item/ScptBlckRedhRHMakers.ozj c84b7ce3 89193
 Data/Item/ShBlckRedhRHMakers.ozj d48eaf19 93081
