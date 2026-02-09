@@ -22,7 +22,7 @@ Data/Item/Staff70.bmd 5ac57d3a 81442
 Data/Item/StfBlckRedhRHMakers.jpg.ozj 1589b84e 70945
 Data/Item/SwBlckRedhRHMakers.ozj 95af074f 78879
 Data/Item/Sword79.bmd 83bfc840 103398
-Data/Local/Mix.bmd f886de8a 55816
+Data/Local/Mix.bmd 0866e2e3 55816
 Data/Local/Eng/ItemTooltip_eng.bmd 406aa3b3 1015812
 Data/Local/Eng/Item_eng.bmd 2654c8ba 688132
 Data/Local/Eng/Skill_eng.bmd 669fbc7e 57204
