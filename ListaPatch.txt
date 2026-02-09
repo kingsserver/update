@@ -1,4 +1,4 @@
-main.premium 80011a00 2775700
+main.premium 6809dd2f 2775700
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
