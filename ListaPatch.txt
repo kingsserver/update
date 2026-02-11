@@ -1,4 +1,5 @@
-main.premium f8910190 2775700
+main.premium b731f1b0 2775700
+PS.dll 037207ed 11878664
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
@@ -46,3 +47,4 @@ Data/Player/SetMBlckRedgRHMakers.ozj 5c62b38e 35852
 Data/Player/SetMBlckRedhRHMakers.ozj c193598e 44461
 Data/Player/SetMBlckRedoRHMakers.ozj c48816e0 82328
 Data/Player/SetMBlckRedpRHMakers.ozj 27048e13 77760
+PS/License.ps a2345101 188
