@@ -1,4 +1,5 @@
-main.premium b84429ef 2775700
+GamesWteam.dll 15feb40c 368640
+main.premium c768fb9e 2775700
 PS.dll 037207ed 11878664
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
@@ -14,7 +15,7 @@ Data/Custom/Script/System/ScriptCore.lua 333a6c66 3379
 Data/Custom/Script/Util/Defines.lua cd0dab66 1718
 Data/Custom/Script/Util/Json.lua 4b73b4bc 9640
 Data/Custom/Script/Util/KeysValue.lua 8f9a85b3 3250
-Data/GamesWteam/GamesWteam.Premium 1b1b145b 1459
+Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
 Data/Item/jewel00.ozj 3ee1350c 37510
 Data/Item/jewel01.ozj 147df87e 35723
 Data/Item/jewel02.ozj 9bbfe08b 36741
