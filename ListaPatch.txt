@@ -2,7 +2,7 @@ CEffect.dll 428c96bc 155136
 GamesWteam.dll 15feb40c 368640
 hso.dll 5a675d6c 1943040
 Kings.dll 2129d804 4885504
-main.premium a3681245 2775700
+main.premium 8fdcbfd5 2775700
 PS.dll 037207ed 11878664
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
