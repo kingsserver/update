@@ -50,14 +50,17 @@ Data/Item/msword01.OZJ a5ac567a 31424
 Data/Item/msword02.OZT 54981902 16432
 Data/Item/Shield54.bmd 45e83557 19628
 Data/Item/Shield59.bmd 61e1f2f3 2906
+Data/Item/Staff50.bmd 6fcc01cf 67351
 Data/Item/Staff51.bmd 84cbe56a 30521
 Data/Item/Sword53.bmd 38ec19ef 12203
 Data/Item/Sword54.bmd 08777514 28530
 Data/Item/Sword60.bmd c106c067 16564
+Data/Item/Texture108.ozj ccb6e0fc 3817
 Data/Item/Texture12.ozj 73c5ab7c 6158
 Data/Item/Texture127.ozt b86bf0e9 65584
 Data/Item/Texture128.ozj b99b91a8 11654
 Data/Item/Texture130.ozj 72f5a220 1587
+Data/Item/Texture17.ozj b62e4f43 1521
 Data/Item/Texture24.ozj 3b839d77 2535
 Data/Item/Texture26.ozj 12882772 3234
 Data/Item/Texture5.ozj ff15ca45 1742
