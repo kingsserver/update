@@ -2,8 +2,9 @@ CEffect.dll 428c96bc 155136
 GamesWteam.dll 15feb40c 368640
 hso.dll 5a675d6c 1943040
 Kings.dll 2129d804 4885504
-main.premium 1d4f645b 2775700
+main.premium 12f2dc1a 2775700
 matrix.plugins fbe982ee 4461416
+PS.dll 037207ed 11878664
 Data/Custom/Interface/BossLifeBar.ozt 8c379624 1048624
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
@@ -108,3 +109,4 @@ Data/Player/Texture238.ozj 30b326c2 40700
 Data/Player/Texture298.ozj 031af738 19237
 Data/Player/Texture318.ozj 70143ba1 4780
 Data/Player/Texture320.ozj 734f178e 17246
+PS/License.ps a2345101 188
