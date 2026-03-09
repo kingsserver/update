@@ -70,6 +70,7 @@ Data/Item/Texture127.ozt b86bf0e9 65584
 Data/Item/Texture128.ozj b99b91a8 11654
 Data/Item/Texture130.ozj 72f5a220 1587
 Data/Item/Texture17.ozj b62e4f43 1521
+Data/Item/Texture2.ozj b4864683 1730
 Data/Item/Texture24.ozj 3b839d77 2535
 Data/Item/Texture26.ozj 12882772 3234
 Data/Item/Texture5.ozj ff15ca45 1742
