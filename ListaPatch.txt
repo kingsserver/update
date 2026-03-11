@@ -1,10 +1,11 @@
+Camera.dll 4d31c115 207360
 CEffect.dll 428c96bc 155136
 GamesWteam.dll 15feb40c 368640
 hso.dll 5a675d6c 1943040
 Kings.dll 2129d804 4885504
 Main.dll c3d1daa2 8275968
-main.premium bd4ef420 3080544
-matrix.plugins 9948b8c2 4461416
+main.premium 798f2382 3080544
+matrix.plugins 9a6dae82 4461416
 PS.dll 037207ed 11878664
 Data/Custom/Interface/AuctionWindow.ozj 96ea0bda 32362
 Data/Custom/Interface/BossLifeBar.ozt 8c379624 1048624
