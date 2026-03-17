@@ -104,12 +104,11 @@ Data/Custom/Interface/NewMenu/menuico6.ozt cbca9ac8 40052
 Data/Custom/Interface/NewMenu/menuico7.ozt b447566f 40052
 Data/Custom/Interface/NewMenu/menuico8.ozt 7a6337b2 40052
 Data/Custom/Interface/NewMenu/menuico9.ozt 7ee4b48e 40052
-Data/Custom/Script/ScriptMain.lua 2ff5e2a3 549
+Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
 Data/Custom/Script/PZDEV/InvasionLore/Config.lua 29aef09e 11200
 Data/Custom/Script/PZDEV/InvasionLore/System.lua bfa7f0cb 23760
-Data/Custom/Script/Scripts/BattlePass/BattlePass.lua 1afac941 46733
 Data/Custom/Script/Scripts/WindowTitle/Config.lua 491d6b41 166
 Data/Custom/Script/Scripts/WindowTitle/WindowTitle.lua 94b3e394 1822
 Data/Custom/Script/System/InterfaceCore.lua 00e453e0 2611
