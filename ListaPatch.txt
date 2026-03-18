@@ -4,7 +4,7 @@ GamesWteam.dll 15feb40c 368640
 hso.dll 5a675d6c 1943040
 Kings.dll 2129d804 4885504
 Main.dll c3d1daa2 8275968
-main.premium 38d06178 3080544
+main.premium 02cda665 3080544
 matrix.plugins 9a6dae82 4461416
 PS.dll 037207ed 11878664
 Data/Custom/Interface/AuctionWindow.ozj 96ea0bda 32362
