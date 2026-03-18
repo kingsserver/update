@@ -104,8 +104,6 @@ Data/Custom/Interface/NewMenu/menuico6.ozt cbca9ac8 40052
 Data/Custom/Interface/NewMenu/menuico7.ozt b447566f 40052
 Data/Custom/Interface/NewMenu/menuico8.ozt 7a6337b2 40052
 Data/Custom/Interface/NewMenu/menuico9.ozt 7ee4b48e 40052
-Data/Custom/Script/BattlePass_Config.lua 3d08510c 2649
-Data/Custom/Script/BattlePass_System.lua 48718e0c 14666
 Data/Custom/Script/ScriptMain.lua 345f5c37 503
 Data/Custom/Script/PZDEV/CreationCoupon/Config.lua 96c42c4a 2738
 Data/Custom/Script/PZDEV/CreationCoupon/System.lua ccfbebc2 21604
