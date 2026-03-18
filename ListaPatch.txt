@@ -4,7 +4,7 @@ GamesWteam.dll 15feb40c 368640
 hso.dll 5a675d6c 1943040
 Kings.dll 2129d804 4885504
 Main.dll c3d1daa2 8275968
-main.premium 02cda665 3080544
+main.premium d9c4c5ed 3080544
 matrix.plugins 9a6dae82 4461416
 PS.dll 037207ed 11878664
 Data/Custom/Interface/AuctionWindow.ozj 96ea0bda 32362
@@ -119,7 +119,7 @@ Data/Custom/Script/System/ScriptCore.lua 622704bf 3589
 Data/Custom/Script/Util/Defines.lua cd0dab66 1718
 Data/Custom/Script/Util/Json.lua 4b73b4bc 9640
 Data/Custom/Script/Util/KeysValue.lua 8f9a85b3 3250
-Data/GamesWteam/GamesWteam.Premium 6baf57f4 1459
+Data/GamesWteam/GamesWteam.Premium 1b1b145b 1459
 Data/Item/elfwing3d_R.OZJ fe7042fa 63275
 Data/Item/giftbox_gh.bmd 0802222c 77125
 Data/Item/gift_bc.bmd 3e640268 20782
