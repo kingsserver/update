@@ -15,6 +15,8 @@ Data/Gate.bmd 309b44df 7168
 Data/Custom/Interface/FullMapIcons.ozt 752f6967 36912
 Data/Custom/Interface/MapFrame.ozt e5964b9d 4194352
 Data/Custom/Interface/MapIcons.ozt f85e2cee 4000048
+Data/Custom/Script/ScriptMain.lua ce0faccc 293
+Data/Custom/Script/PZDEV/InvasionLore/Config.lua 579e6ac7 11206
 Data/Item/ARC_OBJ_A01.bmd 2a12cd8e 332046
 Data/Item/ARC_OBJ_A02.bmd 39b1e744 332046
 Data/Item/ARC_OBJ_A03.bmd 0dc633e3 332046
