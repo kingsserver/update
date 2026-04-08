@@ -6,8 +6,8 @@ hso.dll 5a675d6c 1943040
 info.hso 943c50d0 20016
 Kings.dll 1a9b512b 7268864
 Main.dll c3d1daa2 8275968
-main.premium 9995b647 3080544
-matrix.plugins 74fe6bb6 4461448
+main.premium e296999d 3080544
+matrix.plugins 55e8b957 4461448
 Plugin.dll a746ccc8 96256
 PS.dll 037207ed 11878664
 unrar.dll d2919ffb 268504
