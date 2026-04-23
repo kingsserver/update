@@ -37,7 +37,7 @@ Data/Item/Wing205.bmd c2cc0733 33316
 Data/Item/Wing206.bmd 8efa787f 131016
 Data/Item/wing3chaking.ozj ca1a9702 38585
 Data/Item/wing3chaking.ozt 4f870aad 65584
-Data/Local/FilterName.bmd 67f39257 10004
+Data/Local/Filter.bmd 32d2aecc 20004
 Data/Local/Mix.bmd 68c1671a 61720
 Data/Local/Eng/ItemTooltip_eng.bmd bccfde4a 1015812
 Data/Local/Eng/Item_eng.bmd 6e7eebfd 688132
