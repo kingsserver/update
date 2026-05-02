@@ -6,7 +6,7 @@ hso.dll 5a675d6c 1943040
 info.hso 943c50d0 20016
 Kings.dll 1a9b512b 7268864
 Main.dll c3d1daa2 8275968
-main.premium 6d7bce32 3080544
+main.premium 76c43745 3080544
 matrix.plugins 117f4a63 4461448
 Plugin.dll a746ccc8 96256
 PS.dll 037207ed 11878664
@@ -43,6 +43,11 @@ Data/Interface/New_lo_back_02.OZJ cd5b249c 12041
 Data/Item/ARC_OBJ_A01.bmd 2a12cd8e 332046
 Data/Item/ARC_OBJ_A02.bmd 39b1e744 332046
 Data/Item/ARC_OBJ_A03.bmd 0dc633e3 332046
+Data/Item/bow61.bmd f1d2dc27 74505
+Data/Item/DcMakerBowMetal.ozj c5a64284 34590
+Data/Item/DcMakerShieldMetal.ozj 7da92c37 91966
+Data/Item/DcMakerStaffMetal.ozj c5a64284 34590
+Data/Item/DcMakerSwordMetal.ozj c5a64284 34590
 Data/Item/elfwing3d_R.ozj fe7042fa 63275
 Data/Item/lightningblast.ozj 6750d1ea 21950
 Data/Item/magician_wing.ozt 49c84751 262192
@@ -50,6 +55,9 @@ Data/Item/msword01.ozj a5ac567a 31424
 Data/Item/msword02.ozt 54981902 16432
 Data/Item/pass.bmd a7a5efde 3385
 Data/Item/pass.ozj b24e7aa8 32577
+Data/Item/shield61.bmd a4159a7a 20813
+Data/Item/staff61.bmd 29bac964 81383
+Data/Item/sword155.bmd 1e5157c5 63217
 Data/Item/Sword96.bmd b954ccbd 57484
 Data/Item/Texture446.ozt e546f56c 65592
 Data/Item/Texture447.ozt ccc20a73 65592
@@ -70,3 +78,15 @@ Data/Local/Por/Text_por.bmd 7a5cf635 131209
 Data/Local/Spn/ItemTooltip_spn.bmd d7f31717 1015812
 Data/Local/Spn/Item_spn.bmd 8b61d9ca 688132
 Data/Local/Spn/Text_spn.bmd 7a5cf635 131209
+Data/Player/armormale110.bmd b502291d 56716
+Data/Player/armormale111.bmd 88aa257f 67461
+Data/Player/bootmale110.bmd 7de29310 28127
+Data/Player/bootmale111.bmd cdf20116 44163
+Data/Player/DcMakerSetFMetal.ozj b633d7ed 62270
+Data/Player/DcMakerSetMMetal.ozj dd1d60e1 82215
+Data/Player/glovemale110.bmd d9772f10 29422
+Data/Player/glovemale111.bmd 97061779 42485
+Data/Player/helmmale110.bmd be34d49c 44299
+Data/Player/helmmale111.bmd 289f2db9 47070
+Data/Player/pantmale110.bmd 79857015 39872
+Data/Player/pantmale111.bmd 764e9d02 46357
