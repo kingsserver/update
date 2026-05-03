@@ -72,13 +72,13 @@ Data/Item/wing3chaking.ozt 4f870aad 65584
 Data/Local/Filter.bmd 32d2aecc 20004
 Data/Local/Mix.bmd 7cb1689d 62376
 Data/Local/Eng/ItemTooltip_eng.bmd ce6d3cb8 1015812
-Data/Local/Eng/Item_eng.bmd 91263001 688132
+Data/Local/Eng/Item_eng.bmd b01cdf58 688132
 Data/Local/Eng/Text_eng.bmd 1f4248e9 131245
 Data/Local/Por/ItemTooltip_por.bmd ce6d3cb8 1015812
-Data/Local/Por/Item_por.bmd 91263001 688132
+Data/Local/Por/Item_por.bmd b01cdf58 688132
 Data/Local/Por/Text_por.bmd 1f4248e9 131245
 Data/Local/Spn/ItemTooltip_spn.bmd ce6d3cb8 1015812
-Data/Local/Spn/Item_spn.bmd 91263001 688132
+Data/Local/Spn/Item_spn.bmd b01cdf58 688132
 Data/Local/Spn/Text_spn.bmd 1f4248e9 131245
 Data/Player/armormale110.bmd b502291d 56716
 Data/Player/armormale111.bmd 88aa257f 67461
