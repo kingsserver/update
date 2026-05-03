@@ -7,7 +7,7 @@ info.hso 943c50d0 20016
 Kings.dll 1a9b512b 7268864
 Main.dll c3d1daa2 8275968
 main.premium b3b8e9e4 3080544
-matrix.plugins e10bd215 4461448
+matrix.plugins 281995b9 4461448
 Plugin.dll a746ccc8 96256
 PS.dll 037207ed 11878664
 unrar.dll d2919ffb 268504
@@ -72,13 +72,13 @@ Data/Item/wing3chaking.ozt 4f870aad 65584
 Data/Local/Filter.bmd 32d2aecc 20004
 Data/Local/Mix.bmd 68c1671a 61720
 Data/Local/Eng/ItemTooltip_eng.bmd ce6d3cb8 1015812
-Data/Local/Eng/Item_eng.bmd 3e5fee3e 688132
+Data/Local/Eng/Item_eng.bmd 91263001 688132
 Data/Local/Eng/Text_eng.bmd 7a5cf635 131209
 Data/Local/Por/ItemTooltip_por.bmd ce6d3cb8 1015812
-Data/Local/Por/Item_por.bmd 3e5fee3e 688132
+Data/Local/Por/Item_por.bmd 91263001 688132
 Data/Local/Por/Text_por.bmd 7a5cf635 131209
 Data/Local/Spn/ItemTooltip_spn.bmd ce6d3cb8 1015812
-Data/Local/Spn/Item_spn.bmd 3e5fee3e 688132
+Data/Local/Spn/Item_spn.bmd 91263001 688132
 Data/Local/Spn/Text_spn.bmd 7a5cf635 131209
 Data/Player/armormale110.bmd b502291d 56716
 Data/Player/armormale111.bmd 88aa257f 67461
